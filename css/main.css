@@ -1,0 +1,18 @@
+/* body {margin: 4em auto; font: 1em "Courier New", "Courier", monospace !important; max-width: 800px;} */
+body {margin: 4em auto; max-width: 800px;}
+p {font-size: 1.2em;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a.nav {text-decoration: none; color: #000000;}
+a.nav:hover {text-decoration: underline; color: #000000;}
+a.nav:visited {text-decoration: none; color: #000000;}
+td {vertical-align: top;}
+.button {text-align: center; padding: 1em;}
+.text {text-align: left; border-width: 1px; border-color: #E2B3BD; border-style: solid; background: #FFEAEE; padding: 1em; margin-left: 5%; margin-right: 5%;}
+.comment {text-align: left; border-width: 1px; border-color: #E2B3BD; border-style: solid; background: #FFEAEE; padding: 0.5em; margin: 0.5em; display: inline-block;}
+.chardetails {margin: 0 auto;}
+.chardetails table {float: left; width: auto;}
+.charsep {padding-top: 0.5em; border-top: 1px solid #E2B3BD;}
+.charimg {float: left; width: 250px; text-align: center; margin: 0 10px;}
+.clearfloat {clear: both; height: 0;}
+b.kanji {font-weight: normal; color: #888888; margin-left: 1em;}

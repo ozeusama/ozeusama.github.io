@@ -1,2 +1,4 @@
 # ozeusama dot com
-if you're looking at this i hope you can appreciate my artisanal hand-crafted html
+repo for <https://ozeusama.github.io/site/>
+
+i have no idea what im doing
