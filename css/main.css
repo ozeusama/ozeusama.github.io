@@ -7,6 +7,8 @@ a.nav {text-decoration: none; color: #000000;}
 a.nav:hover {text-decoration: underline; color: #000000;}
 a.nav:visited {text-decoration: none; color: #000000;}
 td {vertical-align: top;}
+img {max-width: 100%;}
+video {max-width: 100%;}
 .button {text-align: center; padding: 1em;}
 .text {text-align: left; border-width: 1px; border-color: #E2B3BD; border-style: solid; background: #FFEAEE; padding: 1em; margin-left: 5%; margin-right: 5%;}
 .comment {text-align: left; border-width: 1px; border-color: #E2B3BD; border-style: solid; background: #FFEAEE; padding: 0.5em; margin: 0.5em; display: inline-block;}
